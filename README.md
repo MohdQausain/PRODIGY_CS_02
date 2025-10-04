@@ -1,7 +1,5 @@
 # PRODIGY_CS_02
 Prodigy Cyber Security Internship - Task 2 - Pixel Manipulation for Image Encryption
-Here’s the updated GitHub description with both **Pillow** and **NumPy** installation instructions clearly mentioned:
-
 ---
 
 # 🔒 Image Scrambler
